@@ -1,0 +1,37 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "notebook.defaultFormatter": "ms-python.autopep8",
+  "autopep8.args": ["--indent-size=2"],
+  "editor.formatOnSave": true,
+  "notebook.formatOnSave.enabled": true,
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "python.useEnvironmentsExtension": true,
+  "python-envs.defaultEnvManager": "ms-python.python:conda",
+  "python-envs.defaultPackageManager": "ms-python.python:conda",
+  "python-envs.pythonProjects": [],
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestArgs": ["tests"],
+  "cSpell.words": [
+    "edgecolor",
+    "figsize",
+    "fontsize",
+    "fontweight",
+    "labelsize",
+    "labelweight",
+    "linestyle",
+    "markersize",
+    "matplotlib",
+    "plotly",
+    "seaborn",
+    "titlesize",
+    "titleweight",
+    "whitegrid",
+    "xlabel",
+    "xtick",
+    "ylabel",
+    "ytick"
+  ]
+}
